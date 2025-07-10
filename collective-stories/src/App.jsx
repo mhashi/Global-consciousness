@@ -4,7 +4,7 @@ import { Card, CardContent, CardDescription, CardHeader, CardTitle } from '@/com
 import { Textarea } from '@/components/ui/textarea.jsx'
 import { Badge } from '@/components/ui/badge.jsx'
 import { Globe, Users, BookOpen, Sparkles, Send, Clock, MapPin } from 'lucide-react'
-import heroBackground from './assets/hero_background.png'
+import heroBackground from './assets/Toolpicture1.jpeg'
 import thoughtIcon from './assets/thought_bubble_icon.png'
 import './App.css'
 
