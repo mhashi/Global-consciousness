@@ -5,7 +5,7 @@ import { Textarea } from '@/components/ui/textarea.jsx'
 import { Badge } from '@/components/ui/badge.jsx'
 import { Globe, Users, BookOpen, Sparkles, Send, Clock, MapPin } from 'lucide-react'
 import heroBackground from './assets/Toolpicture1.jpeg'
-import thoughtIcon from './assets/thought_bubble_icon.png'
+import thoughtIcon from './assets/Toolpicture1.jpeg'
 import './App.css'
 
 function App() {
